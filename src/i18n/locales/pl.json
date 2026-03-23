@@ -44,39 +44,39 @@
     "2faCode": "Kod TOTP"
   },
   "setup": {
-    "welcome": "Welcome to your first setup of wg-easy",
-    "welcomeDesc": "You have found the easiest way to install and manage WireGuard on any Linux host",
-    "existingSetup": "Do you have an existing setup?",
-    "createAdminDesc": "Please first enter an admin username and a strong secure password. This information will be used to log in to your administration panel.",
-    "setupConfigDesc": "Please enter the host and port information. This will be used for the client configuration when setting up WireGuard on their devices.",
-    "setupMigrationDesc": "Please provide the backup file if you want to migrate your data from your previous wg-easy version to your new setup.",
-    "upload": "Upload",
-    "migration": "Restore the backup:",
-    "createAccount": "Create Account",
-    "successful": "Setup successful",
-    "hostDesc": "Public hostname clients will connect to",
-    "portDesc": "Public UDP port clients will connect to and WireGuard will listen on"
+    "welcome": "Witaj w pierwszej konfiguracji wg-easy",
+    "welcomeDesc": "Właśnie odkryłeś najprostszy sposób na instalację i zarządzanie WireGuard na dowolnym hoście Linux",
+    "existingSetup": "Czy masz już istniejącą konfigurację?",
+    "createAdminDesc": "Proszę, podaj najpierw nazwę użytkownika administratora i silne, bezpieczne hasło. Te dane będą służyć do logowania się do panelu administracyjnego.",
+    "setupConfigDesc": "Proszę podać informacje o hoście i porcie. Zostaną one użyte w konfiguracji klienta podczas ustawiania WireGuard na urządzeniach.",
+    "setupMigrationDesc": "Proszę wgrać plik kopii zapasowej, jeśli chcesz przenieść dane z poprzedniej wersji wg-easy do nowej konfiguracji.",
+    "upload": "Wgraj plik",
+    "migration": "Przywróć kopię zapasową:",
+    "createAccount": "Utwórz konto",
+    "successful": "Konfiguracja zakończona pomyślnie",
+    "hostDesc": "Publiczna nazwa hosta, z którą będą łączyć się klienci",
+    "portDesc": "Publiczny port UDP, na którym WireGuard będzie nasłuchiwał i z którym będą łączyć się klienci"
   },
   "update": {
-    "updateAvailable": "There is an update available!",
-    "update": "Update"
+    "updateAvailable": "Dostępna jest aktualizacja!",
+    "update": "Aktualizuj"
   },
   "theme": {
-    "dark": "Dark theme",
-    "light": "Light theme",
-    "system": "System theme"
+    "dark": "Ciemny motyw",
+    "light": "Jasny motyw",
+    "system": "Motyw systemowy"
   },
   "layout": {
-    "toggleCharts": "Show/hide Charts",
-    "donate": "Donate"
+    "toggleCharts": "Pokaż/ukryj wykresy",
+    "donate": "Wspomóż"
   },
   "login": {
-    "signIn": "Sign In",
-    "rememberMe": "Remember me",
-    "rememberMeDesc": "Stay logged after closing the browser",
-    "insecure": "You can't log in with an insecure connection. Use HTTPS.",
-    "2faRequired": "Two Factor Authentication is required",
-    "2faWrong": "Two Factor Authentication is wrong"
+    "signIn": "Zaloguj się",
+    "rememberMe": "Zapamiętaj mnie",
+    "rememberMeDesc": "Pozostań zalogowany po zamknięciu przeglądarki",
+    "insecure": "Nie możesz zalogować się przez nieszyfrowane połączenie. Użyj HTTPS.",
+    "2faRequired": "Wymagana jest autoryzacja dwuetapowa (2FA)",
+    "2faWrong": "Błędny kod autoryzacji dwuetapowej"
   },
   "client": {
     "empty": "Brak klientów.",
